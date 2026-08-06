@@ -1,1 +1,2 @@
 nnnnn
+conflict 1
